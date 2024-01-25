@@ -3,5 +3,10 @@
 # Otherwise, return their sum.
 
 # Ask user for two inputs
+
+first_number = int(input("1st Number: "))
+second_number = int(input("2nd Number: "))
+
 # Use def function for product or sum
+
 # Print product or sum
