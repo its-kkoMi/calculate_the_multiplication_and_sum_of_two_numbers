@@ -9,4 +9,12 @@ second_number = int(input("2nd Number: "))
 
 # Use def function for product or sum
 
+def product_or_sum(first_number, second_number) :
+    product = first_number * second_number
+    
+    if product <= 1000:
+        return product
+    else:
+        return first_number + second_number
+
 # Print product or sum
