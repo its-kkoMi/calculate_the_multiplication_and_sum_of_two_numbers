@@ -18,3 +18,5 @@ def product_or_sum(first_number, second_number) :
         return first_number + second_number
 
 # Print product or sum
+
+print(product_or_sum(first_number, second_number))
